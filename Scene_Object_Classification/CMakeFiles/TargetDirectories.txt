@@ -1,0 +1,3 @@
+/home/marina/workspace_eclipse_scene_object_classification/Scene_Object_Classification/CMakeFiles/SceneClassification.dir
+/home/marina/workspace_eclipse_scene_object_classification/Scene_Object_Classification/CMakeFiles/test.dir
+/home/marina/workspace_eclipse_scene_object_classification/Scene_Object_Classification/CMakeFiles/test2.dir

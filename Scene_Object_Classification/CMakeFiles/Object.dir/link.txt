@@ -1,0 +1,2 @@
+/usr/bin/ar cr libObject.a  CMakeFiles/Object.dir/DatabaseHandlingModule/ObjectInformationModule/impl/Object.cpp.o
+/usr/bin/ranlib libObject.a
